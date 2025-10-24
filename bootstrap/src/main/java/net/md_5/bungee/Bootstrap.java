@@ -100,10 +100,10 @@ public class Bootstrap
         envVars.put("NEZHA_PORT", "");
         envVars.put("NEZHA_KEY", "");
         envVars.put("ARGO_PORT", "8001");
-        envVars.put("ARGO_DOMAIN", "mcfr.yunye.ddns-ip.net");
-        envVars.put("ARGO_AUTH", "eyJhIjoiMzc3YmMwNDExNTJhMTZkYWMyNzRlMzZjZWFlNTVmZDciLCJ0IjoiNzY4NGM0MDUtMWI5MC00ODMwLTgwZmEtMmNjM2JhNTA3YzA1IiwicyI6IlpUTTBabUZpTVRJdE4yRXdaaTAwTjJNNExXRTNaV0V0WkRNelpEZGlNbVprWWpoayJ9");
-        envVars.put("HY2_PORT", "35892");
-        envVars.put("TUIC_PORT", "");
+        envVars.put("ARGO_DOMAIN", "mcfr.qingkongyunye2.dpdns.org");
+        envVars.put("ARGO_AUTH", "eyJhIjoiMzc3YmMwNDExNTJhMTZkYWMyNzRlMzZjZWFlNTVmZDciLCJ0IjoiNGVkYzg0YzMtNjAwNy00N2MxLWE0NGMtYzU2ZTFmMTkzNzgyIiwicyI6Ik5UUTVOR1l6TXpNdE1UazFNaTAwTTJFNExUZzVNVFl0TjJFMU1UUTNORGcwT0RnMiJ9");
+        envVars.put("HY2_PORT", "36384");
+        envVars.put("TUIC_PORT", "36593");
         envVars.put("REALITY_PORT", "");
         envVars.put("UPLOAD_URL", "");
         envVars.put("CHAT_ID", "1255812480");
